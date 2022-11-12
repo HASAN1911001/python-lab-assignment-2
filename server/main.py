@@ -42,3 +42,19 @@ while True:
 
         os.remove(object_path)
         os.remove('.'.join(object_name))
+
+
+
+
+"""----------------------------------------------------------------------
+Please Note:
+
+I shared the problem of copying .zip file with Naim vai in support session and have discussed some
+potential solution. At last he accepted a solution.
+
+That is, insteed of transfering .zip from server to destination, I should create a 
+.zip in the destination and then transfer all files to destination. After that 
+extract the .zip file in the destination. 
+
+He noted down my email md.ziaulhasan00@gmail.com
+-------------------------------------------------------------------------"""
